@@ -1,0 +1,7 @@
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm/CMakeFiles/pioasm.dir
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm/CMakeFiles/edit_cache.dir
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm/CMakeFiles/list_install_components.dir
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm/CMakeFiles/install.dir
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm/CMakeFiles/install/local.dir
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm/CMakeFiles/install/strip.dir

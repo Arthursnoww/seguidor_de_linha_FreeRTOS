@@ -1,0 +1,5 @@
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm-install/pioasm/pioasm
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/arthur/2025.1/rtos/hcsr04/src/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
