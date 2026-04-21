@@ -8,7 +8,7 @@ Projeto de um **robô seguidor de linha** utilizando **Raspberry Pi Pico**, sens
 
 > Adicione aqui a foto do projeto:
 
-![Carrinho Seguidor de Linha](images/carrinho.jpg)
+![Carrinho Seguidor de Linha](img2.jpeg)
 
 ---
 
